@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "455649231674",
+    "firebase_url": "https://scanandgo-124e3.firebaseio.com",
+    "project_id": "scanandgo-124e3",
+    "storage_bucket": "scanandgo-124e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455649231674:android:710bf6d517699668",
+        "android_client_info": {
+          "package_name": "com.sadashivsinha.scanandgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455649231674-ph0svhae6tgj56bso9lcfuml4nnshg90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sadashivsinha.scanandgo",
+            "certificate_hash": "f975a798df48a0bb36d63922e0f7f14a1e9e3378"
+          }
+        },
+        {
+          "client_id": "455649231674-9uad9vs1ht8jfc9m4j1g7h5an7nchidj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC61Mnfm2VEjFLvqiZuSncPgBVJUcI0R-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455649231674-9uad9vs1ht8jfc9m4j1g7h5an7nchidj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

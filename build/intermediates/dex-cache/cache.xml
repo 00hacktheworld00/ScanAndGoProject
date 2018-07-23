@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a24e79908667f28c8278e5410e02d099/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a66ffce1d574f71569fedd39d178da5856f0a84b">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/033589c5b6c7301a8462d593b93f7817/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/d69b8e830ea2368619bfc35a43085b22/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ae6d33f37143b08cd8c477c9e348d61ef7ed7eba">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/53447708508fe3080fd5e54b2c3448f8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/a8015b6a476005586ff7f360e2ba4685/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0fbef528093d3d19b229116b683bd2a66d4aeae1">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8401ed4e4e38413ea74d2fb7f22e23e1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/841b85542c92a9a9cd5436bf4b0a7c99/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5995b6f77812c1e91b46bdae30ef7655/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="182370a4a0bba7903c6ff2cb7b6ac21ca4a4bf89">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8d58632687c88fdef6d4855d7bc09a08/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/3bfeec032b409d65fcbe1ddd56626a62/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bb2d36c036e1770a632e4bbec5a5766b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/7ddf4713e176fe9a96f76e87a5f4e153/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/185ea789b22781953dff83e630d67f21/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/2bcfffaf64382608cdd1f42211c540aa/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="102cfb77c8b8e17db5e8171cc8222750f7c6edc0">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.2/bfc967828daffc35ba01c9ee204d98b664930a0f/constraint-layout-solver-1.1.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bfc967828daffc35ba01c9ee204d98b664930a0f">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/qrcodereaderview-2.0.3.aar/586d5dae8e86be106a32867c00eba2f6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ded76870e286da76793d7bfeaf65e6660f1bec08">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/0d7ef4219b132328c6c2a451ed319978/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7038c6d960d3fe26fd41bc509f256c9692d886ce">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3e2b946046fb1d10649a06811b870f2eca30ea53">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/0336e5477c191a783ef6add985d8e93b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1e9d140d3260619ce2fa991d30b14b531d61dec">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9778ac5109e03cae0f01c3b342eda094/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.4.aar/94f171b557c48cb4f232391acf1bab25/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a13da3b2de1cb4d43145994271c4d9e6ac060be">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/b6ec49c81203f86bd06b55bcc7310ad1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9148af2391a1288519f4f1d38da060c4a640e85">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/8b52e91dd66d658f8aad89985a287e77/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efe9d64183cd00b0cd3d876383ed177e6b37398c">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ccf263a11abb68405d9cadab7eec7812/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d2b8ad415048e88b41ba4afcaafe36150e69b8c">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ab9d8f23d7b5e8bf137f7e422469c33c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eb64675bcc6fd629182f63d363005022/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/3b8671de684a4d26aa533790c5ce44f3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2a69972573cb7e5cc6b8652bacf981e82b68ff71">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="034bf9ed8f8ee5c2ff5da922d095fbaacfc8a892">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/27e965c594d9de636b2c7538f8d94891/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dee40b4a01bb48be9ce0df9b5d17129ba41ccc47">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3ce873edf1f861a74c3748228a8f455b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1e224748cbf54c34eac0bca6376922468b786775">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/46c5682ce3deff1e328871fd3ba4cf09/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04a44d20bec92359951d025757218220f93b5d4b">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6bd97fd543ffb061a7d3f2f9d6247f4b5e0017f5">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.1.aar/a729bdec441e484d452c52ebef76c3e7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5df8ef4ad8616c60a5e14bdc9232a2b6f9dc6f16">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/40cead42f45db491e52a26e026431ccd/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63413895dce50f6123807d1db2274a1982a34194">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1d87886898b847064c785f45e4c41c77/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/47718df74d7052eaaeba26098afd52e5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sadashivsinha/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+
+</items>

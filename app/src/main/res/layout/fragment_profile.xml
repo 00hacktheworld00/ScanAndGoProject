@@ -1,0 +1,132 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btn_save"
+        android:padding="@dimen/padding_normal">
+
+        <RelativeLayout
+            android:id="@+id/layout_image"
+            android:layout_width="@dimen/profile_image_normal"
+            android:layout_height="@dimen/profile_image_normal"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/margin_big">
+
+            <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/profile_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/dummy_profile_img"
+                app:civ_border_color="@color/colorBackgroundLogin"
+                app:civ_border_width="6dp" />
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:id="@+id/upload_image_btn"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_margin="@dimen/margin_small"
+                android:src="@drawable/edit_profile_icon_orange" />
+
+            <ProgressBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:id="@+id/progress_bar"
+                android:visibility="gone"/>
+        </RelativeLayout>
+
+        <EditText
+            android:id="@+id/text_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name"
+            android:gravity="center"
+            android:layout_below="@+id/layout_image"
+            android:textSize="@dimen/text_subheading"
+            android:background="@null"
+            android:enabled="false"
+            android:layout_marginTop="@dimen/margin_normal"
+            android:textColor="@color/colorBackgroundLogin"
+            android:textColorHighlight="@color/colorBackgroundLogin"
+            android:textColorHint="@color/colorBackgroundLogin"
+            android:textColorLink="@color/colorBackgroundLogin" />
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/text_name">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_normal"
+                android:orientation="vertical">
+
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="@dimen/margin_small">
+
+                    <android.support.design.widget.TextInputEditText
+                        android:id="@+id/text_email"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Email ID"
+                        android:background="@null"
+                        android:enabled="false"
+                        android:textColor="@color/colorBlack"
+                        android:textColorHighlight="@color/colorBlack"
+                        android:textColorHint="@color/colorBlack"
+                        android:textColorLink="@color/colorBlack" />
+
+                </android.support.design.widget.TextInputLayout>
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="@dimen/margin_small">
+
+                    <android.support.design.widget.TextInputEditText
+                        android:id="@+id/text_contact_no"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:enabled="false"
+                        android:hint="Contact Number"
+                        android:textColor="@color/colorBlack"
+                        android:textColorHighlight="@color/colorBlack"
+                        android:textColorHint="@color/colorBlack"
+                        android:textColorLink="@color/colorBlack" />
+
+                </android.support.design.widget.TextInputLayout>
+            </LinearLayout>
+
+        </ScrollView>
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/btn_sign_out"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/rounded_rectangle_grey"
+        android:gravity="center"
+        android:padding="@dimen/padding_small"
+        android:text="Sign Out"
+        android:layout_marginLeft="@dimen/margin_big"
+        android:layout_marginRight="@dimen/margin_big"
+        android:layout_marginTop="@dimen/margin_small"
+        android:layout_marginBottom="@dimen/margin_small"
+        android:textAllCaps="false"
+        android:textSize="@dimen/text_size_button" />
+</RelativeLayout>

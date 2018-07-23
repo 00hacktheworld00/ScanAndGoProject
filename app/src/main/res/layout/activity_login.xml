@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackgroundLogin"
+    android:orientation="vertical"
+    tools:context="com.sadashivsinha.scanandgo.Activities.LoginActivity">
+
+    <include layout="@layout/layout_mobile_number"
+        android:id="@+id/layout_main"/>
+
+    <include layout="@layout/layout_otp"
+        android:id="@+id/layout_otp"
+        android:visibility="gone"/>
+
+    <include layout="@layout/layout_profile"
+        android:id="@+id/layout_profile"
+        android:visibility="gone"/>
+
+    <include layout="@layout/layout_loading"
+        android:id="@+id/layout_loading"
+        android:visibility="gone"/>
+
+</RelativeLayout>

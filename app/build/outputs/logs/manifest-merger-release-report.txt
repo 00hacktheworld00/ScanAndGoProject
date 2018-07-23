@@ -1,0 +1,462 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:design:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/d69b8e830ea2368619bfc35a43085b22/AndroidManifest.xml:17:1-22:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/27e965c594d9de636b2c7538f8d94891/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/185ea789b22781953dff83e630d67f21/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5995b6f77812c1e91b46bdae30ef7655/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-core:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.0.aar/86c67d2e5a7f349dcb87da76395f3347/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage:16.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.1.aar/a729bdec441e484d452c52ebef76c3e7/AndroidManifest.xml:2:1-7:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/3bfeec032b409d65fcbe1ddd56626a62/AndroidManifest.xml:2:1-11:12
+MERGED from [com.dlazaro66.qrcodereaderview:qrcodereaderview:2.0.3] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/qrcodereaderview-2.0.3.aar/586d5dae8e86be106a32867c00eba2f6/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ccf263a11abb68405d9cadab7eec7812/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/0d7ef4219b132328c6c2a451ed319978/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/46c5682ce3deff1e328871fd3ba4cf09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/8b52e91dd66d658f8aad89985a287e77/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/3b8671de684a4d26aa533790c5ce44f3/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/7ddf4713e176fe9a96f76e87a5f4e153/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/a8015b6a476005586ff7f360e2ba4685/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/841b85542c92a9a9cd5436bf4b0a7c99/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/2bcfffaf64382608cdd1f42211c540aa/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/0336e5477c191a783ef6add985d8e93b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/b6ec49c81203f86bd06b55bcc7310ad1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/40cead42f45db491e52a26e026431ccd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9778ac5109e03cae0f01c3b342eda094/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/56b2271f032b7b4364fe1bd0636b9941/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8d58632687c88fdef6d4855d7bc09a08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/47718df74d7052eaaeba26098afd52e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8401ed4e4e38413ea74d2fb7f22e23e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3ce873edf1f861a74c3748228a8f455b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/53447708508fe3080fd5e54b2c3448f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ab9d8f23d7b5e8bf137f7e422469c33c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1d87886898b847064c785f45e4c41c77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.4.aar/94f171b557c48cb4f232391acf1bab25/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eb64675bcc6fd629182f63d363005022/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a24e79908667f28c8278e5410e02d099/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bb2d36c036e1770a632e4bbec5a5766b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/033589c5b6c7301a8462d593b93f7817/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/2bcfffaf64382608cdd1f42211c540aa/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/2bcfffaf64382608cdd1f42211c540aa/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:7:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:10:5-33:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/27e965c594d9de636b2c7538f8d94891/AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/27e965c594d9de636b2c7538f8d94891/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5995b6f77812c1e91b46bdae30ef7655/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5995b6f77812c1e91b46bdae30ef7655/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-core:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.0.aar/86c67d2e5a7f349dcb87da76395f3347/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.0.aar/86c67d2e5a7f349dcb87da76395f3347/AndroidManifest.xml:7:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/3bfeec032b409d65fcbe1ddd56626a62/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/3bfeec032b409d65fcbe1ddd56626a62/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/8b52e91dd66d658f8aad89985a287e77/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/8b52e91dd66d658f8aad89985a287e77/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/3b8671de684a4d26aa533790c5ce44f3/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/3b8671de684a4d26aa533790c5ce44f3/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/7ddf4713e176fe9a96f76e87a5f4e153/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/7ddf4713e176fe9a96f76e87a5f4e153/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/a8015b6a476005586ff7f360e2ba4685/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/a8015b6a476005586ff7f360e2ba4685/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/841b85542c92a9a9cd5436bf4b0a7c99/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/841b85542c92a9a9cd5436bf4b0a7c99/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/0336e5477c191a783ef6add985d8e93b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/0336e5477c191a783ef6add985d8e93b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/b6ec49c81203f86bd06b55bcc7310ad1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/b6ec49c81203f86bd06b55bcc7310ad1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/40cead42f45db491e52a26e026431ccd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/40cead42f45db491e52a26e026431ccd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9778ac5109e03cae0f01c3b342eda094/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9778ac5109e03cae0f01c3b342eda094/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.4.aar/94f171b557c48cb4f232391acf1bab25/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.4.aar/94f171b557c48cb4f232391acf1bab25/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:17:9-43
+	android:name
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:11:9-38
+activity#com.sadashivsinha.scanandgo.Activities.LoginActivity
+ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:18:19-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:22:27-74
+receiver#com.sadashivsinha.scanandgo.BroadcastReceivers.IncomingSmsReceiver
+ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:26:9-30:20
+	android:name
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:26:19-73
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:27:13-29:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:28:17-82
+	android:name
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:28:25-79
+activity#com.sadashivsinha.scanandgo.Activities.MainActivity
+ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:32:9-70
+	android:name
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml:32:19-58
+uses-sdk
+INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/d69b8e830ea2368619bfc35a43085b22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/d69b8e830ea2368619bfc35a43085b22/AndroidManifest.xml:20:5-44
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/27e965c594d9de636b2c7538f8d94891/AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/27e965c594d9de636b2c7538f8d94891/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/185ea789b22781953dff83e630d67f21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/185ea789b22781953dff83e630d67f21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5995b6f77812c1e91b46bdae30ef7655/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5995b6f77812c1e91b46bdae30ef7655/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.0.aar/86c67d2e5a7f349dcb87da76395f3347/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.0.aar/86c67d2e5a7f349dcb87da76395f3347/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.1.aar/a729bdec441e484d452c52ebef76c3e7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.1.aar/a729bdec441e484d452c52ebef76c3e7/AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/3bfeec032b409d65fcbe1ddd56626a62/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/3bfeec032b409d65fcbe1ddd56626a62/AndroidManifest.xml:5:5-7:41
+MERGED from [com.dlazaro66.qrcodereaderview:qrcodereaderview:2.0.3] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/qrcodereaderview-2.0.3.aar/586d5dae8e86be106a32867c00eba2f6/AndroidManifest.xml:8:5-10:41
+MERGED from [com.dlazaro66.qrcodereaderview:qrcodereaderview:2.0.3] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/qrcodereaderview-2.0.3.aar/586d5dae8e86be106a32867c00eba2f6/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ccf263a11abb68405d9cadab7eec7812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ccf263a11abb68405d9cadab7eec7812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/0d7ef4219b132328c6c2a451ed319978/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/0d7ef4219b132328c6c2a451ed319978/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/46c5682ce3deff1e328871fd3ba4cf09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/46c5682ce3deff1e328871fd3ba4cf09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/8b52e91dd66d658f8aad89985a287e77/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/8b52e91dd66d658f8aad89985a287e77/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/3b8671de684a4d26aa533790c5ce44f3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/3b8671de684a4d26aa533790c5ce44f3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/7ddf4713e176fe9a96f76e87a5f4e153/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/7ddf4713e176fe9a96f76e87a5f4e153/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/a8015b6a476005586ff7f360e2ba4685/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/a8015b6a476005586ff7f360e2ba4685/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/841b85542c92a9a9cd5436bf4b0a7c99/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/841b85542c92a9a9cd5436bf4b0a7c99/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/2bcfffaf64382608cdd1f42211c540aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/2bcfffaf64382608cdd1f42211c540aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/0336e5477c191a783ef6add985d8e93b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/0336e5477c191a783ef6add985d8e93b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/b6ec49c81203f86bd06b55bcc7310ad1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/b6ec49c81203f86bd06b55bcc7310ad1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/40cead42f45db491e52a26e026431ccd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/40cead42f45db491e52a26e026431ccd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9778ac5109e03cae0f01c3b342eda094/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9778ac5109e03cae0f01c3b342eda094/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/56b2271f032b7b4364fe1bd0636b9941/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/56b2271f032b7b4364fe1bd0636b9941/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8d58632687c88fdef6d4855d7bc09a08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8d58632687c88fdef6d4855d7bc09a08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/47718df74d7052eaaeba26098afd52e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/47718df74d7052eaaeba26098afd52e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8401ed4e4e38413ea74d2fb7f22e23e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8401ed4e4e38413ea74d2fb7f22e23e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3ce873edf1f861a74c3748228a8f455b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3ce873edf1f861a74c3748228a8f455b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/53447708508fe3080fd5e54b2c3448f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/53447708508fe3080fd5e54b2c3448f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ab9d8f23d7b5e8bf137f7e422469c33c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ab9d8f23d7b5e8bf137f7e422469c33c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1d87886898b847064c785f45e4c41c77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1d87886898b847064c785f45e4c41c77/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.4.aar/94f171b557c48cb4f232391acf1bab25/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.4.aar/94f171b557c48cb4f232391acf1bab25/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eb64675bcc6fd629182f63d363005022/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eb64675bcc6fd629182f63d363005022/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a24e79908667f28c8278e5410e02d099/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a24e79908667f28c8278e5410e02d099/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bb2d36c036e1770a632e4bbec5a5766b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bb2d36c036e1770a632e4bbec5a5766b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/033589c5b6c7301a8462d593b93f7817/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/033589c5b6c7301a8462d593b93f7817/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/c26454c97fc6c6dbf0240c4bb12d97ab/AndroidManifest.xml:33:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/2bcfffaf64382608cdd1f42211c540aa/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/2bcfffaf64382608cdd1f42211c540aa/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.0.aar/2574a050a3eda0d3f250adba8a626ed8/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:35:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.0.0.aar/01a4c3bd8d9acfd716f7a02b4c8a2e5b/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.0.aar/f6128f1ca4b2bc3864cca4bb02acf51e/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:29:9-63
+permission#com.sadashivsinha.scanandgo.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:32:22-76
+uses-permission#com.sadashivsinha.scanandgo.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:42:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:45:13-49:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.sadashivsinha.scanandgo
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:48:27-58
+category#com.sadashivsinha.scanandgo
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:57:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/06c2310fdae93f0526c1f98f5e39e913/AndroidManifest.xml:60:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/7ddf4713e176fe9a96f76e87a5f4e153/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/7ddf4713e176fe9a96f76e87a5f4e153/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/7ddf4713e176fe9a96f76e87a5f4e153/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/7ddf4713e176fe9a96f76e87a5f4e153/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/a8015b6a476005586ff7f360e2ba4685/AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/a8015b6a476005586ff7f360e2ba4685/AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/a8015b6a476005586ff7f360e2ba4685/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/a8015b6a476005586ff7f360e2ba4685/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/a8015b6a476005586ff7f360e2ba4685/AndroidManifest.xml:10:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9778ac5109e03cae0f01c3b342eda094/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9778ac5109e03cae0f01c3b342eda094/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sadashivsinha/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9778ac5109e03cae0f01c3b342eda094/AndroidManifest.xml:24:13-58

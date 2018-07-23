@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6223</color>
+    <color name="colorPrimaryDark">#FF6223</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorText">#FF9C24</color>
+    <color name="colorBackgroundLogin">#FF6223</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorButtonText">#A8F07B</color>
+    <color name="colorDimBlack">#90000000</color>
+    <color name="colorBlack">#EE000000</color>
+    <color name="colorSuccessGreen">#59DD00</color>
+    <color name="colorGrey">#E0E0E0</color>
+    <color name="colorYellow">#FFEB3B</color>
+
+    <color name="bgBottomNavigation">#FF5E29</color>
+</resources>

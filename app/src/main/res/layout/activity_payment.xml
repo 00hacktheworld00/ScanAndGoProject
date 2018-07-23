@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.sadashivsinha.scanandgo.Activities.PaymentActivity">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_big"
+        app:cardBackgroundColor="@color/colorWhite"
+        app:cardElevation="3dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/margin_big">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                fontPath="fonts/fontBold.ttf"
+                android:textSize="@dimen/text_subheading"
+                android:text="Payment Success"
+                tools:ignore="MissingPrefix" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                fontPath="fonts/fontLight.ttf"
+                android:layout_marginTop="@dimen/margin_normal"
+                android:text="Thank you for shopping with us."
+                tools:ignore="MissingPrefix" />
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_margin="@dimen/margin_normal"
+                android:src="@drawable/image_success"
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                fontPath="fonts/fontLight.ttf"
+                android:layout_marginTop="@dimen/margin_big"
+                android:text="Your Order ID"
+                tools:ignore="MissingPrefix" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                fontPath="fonts/fontBold.ttf"
+                android:textSize="@dimen/text_subheading"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/margin_small"
+                android:text="404"
+                tools:ignore="MissingPrefix" />
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/btn_done"
+        android:paddingTop="@dimen/margin_normal"
+        android:paddingBottom="@dimen/margin_normal"
+        android:paddingLeft="@dimen/cart_item_image_normal"
+        android:paddingRight="@dimen/cart_item_image_normal"
+        android:background="@drawable/rounded_rectangle_green"
+        android:textColor="@color/colorWhite"
+        android:layout_margin="@dimen/margin_small"
+        android:text="DONE"/>
+</RelativeLayout>

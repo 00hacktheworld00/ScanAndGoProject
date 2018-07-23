@@ -1,0 +1,4 @@
+#Tue Jul 24 01:20:35 IST 2018
+base.0=/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/dexMerger/debug/114
+renamed.0=classes.dex
+file.0=/Users/sadashivsinha/Documents/Sadashiv Sinha/Android Studio Projects/ScanandGo/app/build/intermediates/transforms/dexMerger/debug/114/classes.dex

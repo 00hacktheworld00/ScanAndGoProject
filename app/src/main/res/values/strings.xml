@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scan and Go​</string>
+
+    <string name="app_name_text">Scan\nand Go​</string>
+    <string name="hint_enter_mobile">Enter Mobile Number</string>
+    <string name="title_bottom_scan">Scan</string>
+    <string name="title_bottom_profile">Profile</string>
+</resources>

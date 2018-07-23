@@ -1,0 +1,47 @@
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/text_title"
+        fontPath="fonts/fontBold.ttf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_normal"
+        android:text="@string/app_name_text"
+        android:textColor="@color/colorText"
+        android:textSize="@dimen/text_size_heading"
+        tools:ignore="MissingPrefix" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_title"
+        android:layout_centerInParent="true"
+        android:layout_margin="@dimen/margin_normal"
+        android:layout_marginTop="@dimen/margin_big"
+        android:background="@drawable/round_rectangle_white"
+        android:gravity="center"
+        android:hint="@string/hint_enter_mobile"
+        android:inputType="number"
+        android:maxLength="10"
+        android:maxLines="1"
+        android:id="@+id/text_mobile_number"
+        android:padding="@dimen/padding_normal"
+        android:singleLine="true" />
+
+    <Button
+        android:id="@+id/btn_continue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorWhite"
+        android:gravity="center"
+        android:padding="@dimen/padding_normal"
+        android:text="Continue"
+        android:textAllCaps="false"
+        android:textColor="@color/colorButtonText"
+        android:textSize="@dimen/text_size_button" />
+</RelativeLayout>
